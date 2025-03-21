@@ -26,6 +26,6 @@ Estou aberto a **estágios**, **freelances** ou **colaborações** em projetos q
 ## ☎ Contato!
 <p align="center">
   <a href="mailto:felipe.dev.94@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
